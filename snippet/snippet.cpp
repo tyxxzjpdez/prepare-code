@@ -1,7 +1,14 @@
-#include <iostream>
+#include <bits/stdc++.h>
+
+typedef long long ll;
+typedef unsigned long long ull;
+
+using namespace std;
 
 int main()
 {
-    std::cout << "Hello world" << std::endl;
+    //ios::sync_with_stdio(false);
+    //freopn(".in","r",stdin);
+    //freopn(".out","w",stdout);
     return 0;
 }
