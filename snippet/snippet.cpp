@@ -7,8 +7,6 @@ using namespace std;
 
 int main()
 {
-    //ios::sync_with_stdio(false);
-    //freopn(".in","r",stdin);
-    //freopn(".out","w",stdout);
+    ios::sync_with_stdio(false);
     return 0;
 }
